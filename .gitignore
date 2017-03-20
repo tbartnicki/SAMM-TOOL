@@ -3,3 +3,10 @@
 ################################################################################
 
 /OwaspSAMM.DAL/bin/Debug
+/OwaspSAMM.Database/bin/Debug
+/OwaspSAMM.Database/obj/Debug
+/OwaspSAMM.Database/OwaspSAMM.Database.sqlproj.user
+/OwaspSAMM.Web/bin
+/OwaspSAMM.Web/obj/Debug
+/OwaspSAMM.DAL/obj/Debug
+/.vs
